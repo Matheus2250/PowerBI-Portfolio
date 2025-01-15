@@ -3,4 +3,6 @@ Esse repositório contém os dashboards elaborados por mim usando o Power BI. Os
 # Dashboard Plano de Contratações Anual 2025
 Esse dashboard foi criado com o propósito de esclarecer e mostrar o plano de contratações anual do ano de 2025 no Ministério da Saúde de acordo com o Decreto 10.947.
 
+![alt text](https://github.com/Matheus2250/PowerBI-Portfolio/blob/main/DashboardPCA2025.png)
+
 Você pode acessar esse dashboard [aqui](https://app.powerbi.com/view?r=eyJrIjoiMjZkYzNiZTMtODA0OS00ZmYyLTg5ZTEtNWZmZjNiYzJmOTVhIiwidCI6IjlhNTU0YWQzLWI1MmItNDg2Mi1hMzZmLTg0ZDg5MWU1YzcwNSJ9). Alternativamente, você pode acessar diretamente pelo site do governo, clicando em ["Plano de Contratações Anual 2025"](https://www.gov.br/saude/pt-br/acesso-a-informacao/licitacoes-e-contratos/pca/bens-servicos-obras-e-solucoes-de-tic-saa)
